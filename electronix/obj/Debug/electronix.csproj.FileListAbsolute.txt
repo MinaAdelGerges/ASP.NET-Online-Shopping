@@ -1,0 +1,66 @@
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\ApplicationInsights.config
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\csc.exe
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\System.Collections.Immutable.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\System.Reflection.Metadata.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\vbc.exe
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\VBCSCompiler.exe
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\roslyn\VBCSCompiler.exe.config
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\electronix.dll.config
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\electronix.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\electronix.pdb
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.DependencyCollector.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.Web.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.WindowsServer.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.ApplicationInsights.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.DependencyCollector.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.Web.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.AI.WindowsServer.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.ApplicationInsights.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\obj\Debug\electronix.dll
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\obj\Debug\electronix.pdb
+E:\mina\Iti\asp.net\ASP.Net Project\electronix\electronix\electronix\obj\Debug\electronix.csprojResolveAssemblyReference.cache
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\ApplicationInsights.config
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\csc.exe
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\System.Collections.Immutable.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\System.Reflection.Metadata.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\vbc.exe
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\VBCSCompiler.exe
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\roslyn\VBCSCompiler.exe.config
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\electronix.dll.config
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\electronix.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\electronix.pdb
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.DependencyCollector.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.Web.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.WindowsServer.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.ApplicationInsights.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.DependencyCollector.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.Web.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.AI.WindowsServer.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.ApplicationInsights.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\obj\Debug\electronix.csprojResolveAssemblyReference.cache
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\obj\Debug\electronix.dll
+E:\mina\Iti\asp.net\Mina_Adel_Project\electronix\electronix\electronix\obj\Debug\electronix.pdb
