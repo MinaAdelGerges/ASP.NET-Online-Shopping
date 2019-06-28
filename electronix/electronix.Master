@@ -1,0 +1,178 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="electronix.master.cs" Inherits="electronix.electronix" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="iecss.css" />
+<![endif]-->
+<script type="text/javascript" src="js/boxOver.js"></script>
+    <style type="text/css">
+        .auto-style1 {
+            color: #333333;
+            background-repeat: no-repeat;
+            background-position: 5px 6px;
+        }
+        .auto-style3 {
+            width: 400px;
+            float: left;
+            padding: 0 0 0 30px;
+            height: 122px;
+        }
+        .auto-style4 {
+            width: 983px;
+            text-align: center;
+            padding: 10px 0 10px 0;
+        }
+        .auto-style5 {
+            height: 14px;
+        }
+        .auto-style6 {
+            width: 521px;
+            height: 23px;
+            float: left;
+            background: url(images/menu_right.gif) no-repeat center;
+            margin-left: 440px;
+        }
+        .auto-style7 {
+            width: 100%;
+        }
+        .auto-style10 {
+            font-family: "Segoe UI";
+            font-size: 15px;
+            background-color: #F0F0F0;
+        }
+        .auto-style11 {
+            background-position: center;
+            width: 1000px;
+            height: 38px;
+            background-repeat: no-repeat;
+        }
+        .auto-style12 {
+            width: 100%;
+            height: 55px;
+        }
+        .auto-style16 {
+            color: #000000;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .auto-style17 {
+            text-decoration: none;
+        }
+        .auto-style18 {
+            height: 7px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+<div id="main_container">
+  <div class="auto-style11">
+      .</div>
+  <div id="header">
+    <div id="logo"> <a href="#"><img src="images/logo.png" alt="" border="0" width="237" height="140" /></a> </div>
+    <div class="oferte_content">
+      <div class="top_divider"><img src="images/header_divider.png" alt="" width="1" height="164" /></div>
+      <div class="oferta">
+        <div class="oferta_content"> <img src="images/laptop.png" width="94" height="92" alt="" border="0" class="oferta_img" />
+          <div class="auto-style3">
+            <div class="oferta_title">Samsung GX 2004 LM</div>
+            <div class="oferta_text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </div>
+              <a class="auto-style17" href="details.html"><span class="auto-style16">.</span></a> </div>
+        </div>
+      </div>
+      <div class="top_divider"><img src="images/header_divider.png" alt="" width="1" height="164" /></div>
+                      .</div>
+    <!-- end of oferte_content-->
+  </div>
+  <div id="main_content">
+    <div id="menu_tab" class="auto-style5" style="background-color: #808080">
+        
+          <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+              </asp:ContentPlaceHolder>
+              <table class="auto-style12">
+                  <tr>
+                      <td style="font-family: Arial, Helvetica, sans-serif; font-size: large;">
+                          <asp:HyperLink ID="link_home" runat="server" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/homepage.aspx">Home</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_profile" runat="server" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/Profile.aspx">Profile</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_product" runat="server" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/AddProducts.aspx">Add Product</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_manage" runat="server" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/Products.aspx">Management</asp:HyperLink>
+&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_login" runat="server" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/login.aspx">Log In</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_register" runat="server" EnableTheming="False" Font-Bold="True" Font-Underline="False" ForeColor="#0066CC" NavigateUrl="~/register.aspx">Register</asp:HyperLink>
+                      &nbsp;&nbsp;&nbsp;&nbsp;
+                          <asp:HyperLink ID="link_history" runat="server" Font-Bold="True" Font-Overline="False" ForeColor="#0066CC" NavigateUrl="~/purchasedHistory.aspx">Cart Purchased</asp:HyperLink>
+                      </td>
+                  </tr>
+                  </table>
+        
+    &nbsp;&nbsp;
+        
+    </div>
+    <!-- end of menu tab -->
+      <span class="auto-style1">.</span><div class="left_content">
+          <div class="auto-style4">
+              <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                  <p>
+                      <br />
+                  </p>
+                  <p>
+                  </p>
+      <div class="auto-style6">
+          <table class="auto-style7">
+              <tr>
+                  <td >
+                      &nbsp;</td>
+                  
+              </tr>
+          
+          </table>
+        </div>
+                  <p>
+                  </p>
+                  <span class="auto-style10">.</span><p>
+                  </p>
+                  <p>
+                  </p>
+                  <p>
+                  </p>
+                  <p>
+                  </p>
+                  <p>
+                  </p>
+                  <p>
+                  </p>
+                  <p>
+                  </p>
+                  <p class="auto-style18">
+                  </p>
+              </asp:ContentPlaceHolder>
+          </div>
+    </div>
+    <!-- end of right content -->
+                      <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+  </div>
+  <!-- end of main content -->
+  <div class="footer">
+    <div class="left_footer"> <img src="images/footer_logo.png" alt="" width="170" height="49"/> </div>
+    <div class="center_footer"> Template name. All Rights Reserved 2008<br />
+      <a href="http://csscreme.com"><img src="images/csscreme.jpg" alt="csscreme" border="0" /></a><br />
+      <img src="images/payment.gif" alt="" /> </div>
+    <div class="right_footer"> <a href="#">home</a> <a href="#">about</a> <a href="#">sitemap</a> <a href="#">rss</a> <a href="contact.html">contact us</a> </div>
+  </div>
+</div>
+    </div>
+    </form>
+</body>
+</html>
